@@ -58,6 +58,7 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 
 ## Tips
+Door het stellen van de volgende vragen, kun je bepalen of de recuirement een functionele of niet functionele eis zou zijn.
 
 - Welke functionaliteit voegt deze eis toe aan de app?
 - Hoe voegt dit functionaliteit toe aan de app?
