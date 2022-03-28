@@ -9,9 +9,6 @@ Aan de hand van het klassendiagram kan je een verhaal vertellen over de applicat
 ## Opdrachtbeschrijving
 Er volgt straks een stukje tekst over een bedrijf, en het is aan jou om dit om te zetten naar recuirements en een klassendiagram. Ook volgen er tips om makkelijker recuirements en klassen te kunnen samenstellen.
 
-![Shop!](./assets/shop.JPG)
-
-
 ## Randvoorwaarden
 De opdracht moet voldoen aan de volgende voorwaarden:
 
