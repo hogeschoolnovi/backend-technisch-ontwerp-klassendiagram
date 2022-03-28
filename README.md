@@ -12,9 +12,11 @@ Er volgt straks een stukje tekst over een bedrijf, en het is aan jou om dit om t
 ## Randvoorwaarden
 De opdracht moet voldoen aan de volgende voorwaarden:
 
-- minimaal
-- minimaal
--
+- minimaal 15 recuirements
+- minimaal 5 klassen
+
+![Shop!](./assets/shop.JPG)
+
 
 ## Storytime 
 
