@@ -15,7 +15,7 @@ De opdracht moet voldoen aan de volgende voorwaarden:
 - minimaal 15 recuirements
 - minimaal 5 klassen
 
-![Shop!](./assets/shop.JPG)
+![Shop!](./assets/shop.jpg)
 
 
 ## Storytime 
