@@ -70,3 +70,4 @@ Er zijn voor deze opdracht geen moeilijker opdrachten!
 - Zijn de attributen private of?
 - Methodes hoeven niet in het klassendiagram
 - Bekijk de relaties van beide kanten
+- Wat omschrijft een object binnen deze app?
