@@ -20,7 +20,7 @@ De opdracht moet voldoen aan de volgende voorwaarden:
 
 ## Storytime 
 
-In 1970 is Dhr. P. Langevelden een televisiewinkel begonnen in Zaandam. Toendertijd waren tv's nog niet zo populair als tegenwoordig. Niet ieder huis had een tv, iets wat we vandaag de dag bijna niet voor kunnen stellen. Dhr. Langevelden heeft zijn kleine winkel, redelijk uitgebreid. Hij begon als eenmanszaak en had vorig jaar 30 personeelsleden in vaste dienst. Dit jaar heeft Dhr. Langevelden besloten om te starten met het afbouwen van zijn werkzaamheden: zijn drie kinderen gaan de zaak overnemen. 
+In 1970 is Dhr. P. Langevelden een televisiewinkel begonnen in Zaandam. Toendertijd waren tv's nog niet zo populair als tegenwoordig. Niet ieder huis had een tv, iets wat we vandaag de dag bijna niet voor kunnen stellen. Dhr. Langevelden heeft zijn kleine winkel redelijk uitgebreid. Hij begon als eenmanszaak en had vorig jaar 30 personeelsleden in vaste dienst. Dit jaar heeft Dhr. Langevelden besloten om te starten met het afbouwen van zijn werkzaamheden: zijn drie kinderen gaan de zaak overnemen. 
 
 Hella, de dochter van Dhr. Langevelden heeft ervaring op het gebied van inkoop en administratie en zal dit gedeelte op zich gaan nemen. Paulus heeft al van kleins af aan de gave om zelfs een steen te verkopen als een goudklompje door middel van een praatje. Dit en zijn ervaring als verkoper maken Paulus de ideale man voor leidinggevende van de afdeling Verkoop. De jongste van het gezelschap, Marius, heeft vooral in magazijnen gewerkt en zou het fijn vinden als hij verantwoordelijk mag zijn voor het magazijn. 
 
