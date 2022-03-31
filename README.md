@@ -7,7 +7,7 @@ Aan de hand van het klassendiagram kun je een verhaal vertellen over de applicat
 
 
 ## Opdrachtbeschrijving
-Je gaat de requirements en een klassendiagram voor een fictief bedrijf opstellen. Bij 'Storytime' vind je de informatie die je nodig hebt over dit bedrijf. Onderaan volgen een aantal tips om requirements en klassen samen te stellen.
+Je gaat de requirements en een klassendiagram voor een fictief bedrijf opstellen. Bij 'Storytime' vind je de informatie die je nodig hebt over dit bedrijf. Vind je het nog lastig om te bepalen of een requirement een functionele of niet-funtionele eis is? Lees dan paragraaf 2.1 van de cursus Backend Documentatie nog eens door.
 
 ## Randvoorwaarden
 De opdracht moet voldoen aan de volgende voorwaarden:
@@ -54,21 +54,3 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 6. Vul alle attributen toe aan de klassen die je nodig denkt te hebben.
 
-
-
-## Tips
-Door het stellen van de volgende vragen, kun je bepalen of de requirement een functionele of niet-functionele eis is.
-
-- Welke functionaliteit voegt deze eis toe aan de app?
-- Hoe voegt dit functionaliteit toe aan de app?
-- Is het een systeem eis?
-
-- Is het een performance?
-- Is het veiligheid?
-- Is het beveiliging?
-- Is het kwaliteit?
-
-- Zijn de attributen private of public?
-- Methodes hoeven niet in het klassendiagram
-- Bekijk de relaties van beide kanten
-- Wat omschrijft een object binnen deze app?
