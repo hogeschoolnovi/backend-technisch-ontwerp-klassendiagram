@@ -44,7 +44,7 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 1. Bepaal welke eisen er zijn aan de applicatie.
 
-2. Verdeel de eisen in functioneel en niet-functioneel.**Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de niet-functionele eisen te bedenken**
+2. Verdeel de eisen in functioneel en niet-functioneel._Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de niet-functionele eisen te bedenken_
 
 3. Haal uit de informatie over het bedrijf welke klassen je nodig hebt in de applicatie. 
 
