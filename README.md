@@ -42,9 +42,10 @@ Met deze informatie komt Robin bij jou langs.
 ## Stappenplan
 Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo goed weet waar je moet beginnen, kun je onderstaand stappenplan gebruiken.
 
-1. Bepaal welke eisen er zijn aan de applicatie.
+1. Bepaal aan de hand van bovenstaande casus, welke eisen er zijn aan de applicatie.
 
-2. Verdeel de eisen in functioneel en niet-functioneel. _Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de niet-functionele eisen te bedenken_
+2. Verdeel de eisen in functioneel en niet-functioneel. De functionele eisen kun je uit de tekst halen, de niet functionele eisen mag je zelf bedenken, houd hierbij wel rekening met de "kenmerken" van niet-functionele eisen zoals die op edhub staan beschreven.
+_Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de niet-functionele eisen te bedenken_
 
 3. Haal uit de informatie over het bedrijf welke klassen je nodig hebt in de applicatie. 
 
