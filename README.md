@@ -51,7 +51,7 @@ _Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de
 
 4. Maak een klassendiagram.
 
-5. Bepaal welke relaties er zijn tussen de klassen.
-
-6. Vul alle attributen toe aan de klassen die je nodig denkt te hebben.
+  - Vul de klassen in het diagram in.
+  - Bepaal welke relaties er zijn tussen de klassen.
+  - Vul alle attributen toe aan de klassen die je nodig denkt te hebben.
 
