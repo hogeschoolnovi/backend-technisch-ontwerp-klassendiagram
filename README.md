@@ -13,7 +13,7 @@ Je gaat de requirements en een klassendiagram voor een fictief bedrijf opstellen
 De opdracht moet voldoen aan de volgende voorwaarden:
 
 - minimaal 15 requirements
-- minimaal 5 klassen
+- minimaal 5 klassen in een klassendiagram
 
 ![Shop!](./assets/shop.jpg)
 
@@ -42,12 +42,12 @@ Met deze informatie komt Robin bij jou langs.
 ## Stappenplan
 Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo goed weet waar je moet beginnen, kun je onderstaand stappenplan gebruiken.
 
-1. Bepaal aan de hand van bovenstaande casus, welke eisen er zijn aan de applicatie.
+1. Bepaal aan de hand van bovenstaande casus, welke eisen er zijn aan de applicatie. Hiervoor moet je als eerst de hoofdzaken en bijzaken uit de casus van elkaar weten te scheiden. Je kunt daarna op zoek naar werkwoorden in de hoofdzaken, om functionele eisen van te maken.
 
 2. Verdeel de eisen in functioneel en niet-functioneel. De functionele eisen kun je uit de tekst halen, de niet functionele eisen mag je zelf bedenken, houd hierbij wel rekening met de "kenmerken" van niet-functionele eisen zoals die op edhub staan beschreven.
 _Tip: Denk bij functionele eisen aan CRUD en kijk op EdHub voor inspiratie om de niet-functionele eisen te bedenken_
 
-3. Haal uit de informatie over het bedrijf welke klassen je nodig hebt in de applicatie. 
+3. Haal uit de informatie over het bedrijf welke klassen je nodig hebt in de applicatie. Je kunt op zoek naar zelfstandige naamwoorden in de hoofdzaken van de tekst om te vinden welke klassen nodig zijn.
 
 4. Maak een klassendiagram.
 
