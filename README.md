@@ -7,7 +7,7 @@ Aan de hand van het klassendiagram kun je een verhaal vertellen over de applicat
 
 
 ## Opdrachtbeschrijving
-Je gaat de requirements en een klassendiagram voor een fictief bedrijf opstellen. Bij 'Storytime' vind je de informatie die je nodig hebt over dit bedrijf. Vind je het nog lastig om te bepalen of een requirement een functionele of niet-funtionele eis is? Lees dan paragraaf 2.1 van de cursus Backend Documentatie nog eens door.
+Je gaat de requirements en een klassendiagram voor een fictief bedrijf opstellen. Bij 'Storytime' vind je de informatie die je nodig hebt over dit bedrijf. Vind je het nog lastig om te bepalen of een requirement een functionele of niet-funtionele eis is? Lees dan Hoofdstuk 2 van de cursus Software Design en Documentatie nog eens door.
 
 ## Randvoorwaarden
 De opdracht moet voldoen aan de volgende voorwaarden:
