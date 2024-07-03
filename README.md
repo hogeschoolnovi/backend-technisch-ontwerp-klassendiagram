@@ -78,5 +78,5 @@ _Tip: Denk bij niet-functionele eisen aan de 5-heids (veiligheid, gebruiksvriend
 
   - Vul de klassen in het diagram in.
   - Bepaal welke relaties er zijn tussen de klassen.
-  - Vul alle attributen toe aan de klassen die je nodig denkt te hebben.
+  - Voeg alle properties toe aan de klassen die je nodig denkt te hebben. Deze properties kun je uuit de tekst halen of zelf logisch beredeneren.
 
