@@ -38,6 +38,11 @@ Wel beseffen ze dat ze te veel willen om gelijk in een applicatie te stoppen. Ze
 
 Met deze informatie komt Robin bij jou langs.
 
+Robin wil een Minimal Viable Product (MVP) die:
+- Informatie alleen bijhoudt over hun tv's, afstandsbedieningen, muurbeugels en CI-modules.
+- Duidelijk weergeeft welke producten met elkaar gecombineerd kunnen worden (bijvoorbeeld welke afstandsbediening bij welke tv past).
+- Inzicht biedt in de voorraad van elk product.
+- Laat zien hoeveel van elk product is verkocht.
 
 ## Stappenplan
 Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo goed weet waar je moet beginnen, kun je onderstaand stappenplan gebruiken.
